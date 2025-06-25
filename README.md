@@ -69,7 +69,7 @@ npm run dev
 
 **Backend:** Laravel, Sanctum, JWT, PostgreSQL  
 **Frontend:** React, Vite, Tailwind CSS  
-**Others:** Swagger, Postman, Docker (optional)
+**Others:** Swagger, Postman, Docker 
 
 ---
 
