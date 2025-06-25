@@ -65,6 +65,13 @@ npm run dev
 - Postman: `Personal_Data_Vault_API.postman_collection.json`
 
 ---
+## 🛠️ Tech Stack
+
+**Backend:** Laravel, Sanctum, JWT, PostgreSQL  
+**Frontend:** React, Vite, Tailwind CSS  
+**Others:** Swagger, Postman, Docker (optional)
+
+---
 
 ## Credits
 - **Himanshu Kumar** ([whohimanshukr](https://github.com/whohimanshukr))
